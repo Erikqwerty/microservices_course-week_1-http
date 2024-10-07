@@ -27,7 +27,7 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Erikqwerty/microservices_course-week_1-http.git
 cd HTTP
 ```
 
