@@ -28,7 +28,6 @@
 
 ```bash
 git clone https://github.com/Erikqwerty/microservices_course-week_1-http.git
-cd HTTP
 ```
 
 ### 2. Установка зависимостей
